@@ -10,7 +10,6 @@ public class TestGit {
     }
 
     public void show() {
-        System.out.println("哈哈1");
-        System.out.println("哈哈3");
+        System.out.println("sqy");
     }
 }
