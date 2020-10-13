@@ -13,4 +13,8 @@ public class TestGit {
     public void show() {
         System.out.println("wj");
     }
+
+    public static void test() {
+        System.out.println("这是为了测试分支使用的");
+    }
 }
