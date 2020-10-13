@@ -13,4 +13,8 @@ public class TestGit {
     public void show() {
         System.out.println("wj");
     }
+
+    public static void sfsdf() {
+        System.out.println("fsdfs");
+    }
 }
