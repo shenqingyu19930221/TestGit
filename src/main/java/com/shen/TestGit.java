@@ -14,6 +14,10 @@ public class TestGit {
         System.out.println("wj");
     }
 
+    public static void sfsdf() {
+        System.out.println("fsdfs");
+    }
+
     public static void test() {
         System.out.println("这是为了测试分支使用的");
     }
