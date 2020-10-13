@@ -9,16 +9,4 @@ public class TestGit {
         List<String> list = new ArrayList<>();
         System.out.println("我是沈庆宇");
     }
-
-    public void show() {
-        System.out.println("wj");
-    }
-
-    public static void sfsdf() {
-        System.out.println("fsdfs");
-    }
-
-    public static void test() {
-        System.out.println("这是为了测试分支使用的");
-    }
 }
